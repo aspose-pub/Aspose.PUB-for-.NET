@@ -1,6 +1,6 @@
 ## Aspose.PUB for .NET
 
-[Aspose.PUB for .NET](https://products.aspose.com/pub/net)) is an API to read and convert PUB files to PDF file format. It facilitates .NET application developers to work with the electronic publication file format (.pub) without the need of installing it on any server or client application. With Aspose.PUB for .NET, you purely focus on your business logic instead of going into the underlying details of the .pub file format. It lets you save time and effort by allowing you to write short and simple lines of code into your applications quickly and easily.
+[Aspose.PUB for .NET](https://products.aspose.com/pub/net) is an API to read and convert PUB files to [PDF](https://wiki.fileformat.com/view/pdf/) file format. It facilitates .NET application developers to work with the electronic publication file format (.pub) without the need of installing it on any server or client application. With Aspose.PUB for .NET, you purely focus on your business logic instead of going into the underlying details of the .pub file format. It lets you save time and effort by allowing you to write short and simple lines of code into your applications quickly and easily.
 
 This repository contains [Examples](Examples) project for [Aspose.PUB for .NET](https://products.aspose.com/pub/net) to help you learn and write your own applications.
 
@@ -35,4 +35,4 @@ Please find more details for how to run the examples [here](https://docs.aspose.
 + **Download:** [Download Aspose.PUB for .NET](https://www.nuget.org/packages/Aspose.PUB)
 + **Documentation:** [Aspose.PUB for .NET Documentation](https://docs.aspose.com/display/pubnet/Home)
 + **Forum:** [Aspose.PUB for .NET Forum](https://forum.aspose.com/c/pub)
-+ **Blog:** [Aspose.PUB for .NET Blog](https://blog.aspose.com/category/aspose-products/aspose-pub-product-family/)
++ **Blog:** [Aspose.PUB for .NET Blog](https://blog.aspose.com/category/pub/)
