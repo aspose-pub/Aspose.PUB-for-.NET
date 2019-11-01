@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConvertPUBFiles\ConvertPUBtoPDF.cs" />
+    <Compile Include="GettingStarted\LoadLicense.cs" />
     <Compile Include="RunExamples.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
