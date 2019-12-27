@@ -32,8 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Aspose.PUB, Version=19.10.0.0, Culture=neutral, PublicKeyToken=f0262d67fe233d63, processorArchitecture=MSIL">
-      <HintPath>..\packages\Aspose.PUB.19.10.0\lib\net4.5\Aspose.PUB.dll</HintPath>
+    <Reference Include="Aspose.PUB, Version=19.12.0.0, Culture=neutral, PublicKeyToken=f0262d67fe233d63, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aspose.PUB.19.12.0\lib\net4.5\Aspose.PUB.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="ConvertPUBFiles\ConvertPUBtoPDF.cs" />
     <Compile Include="GettingStarted\LoadLicense.cs" />
+    <Compile Include="ProgrammingWithDocuments\EditMetaData.cs" />
     <Compile Include="RunExamples.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -54,5 +55,6 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
