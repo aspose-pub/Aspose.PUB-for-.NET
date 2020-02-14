@@ -1,4 +1,5 @@
 ﻿using CSharp.ConvertPUBFiles;
+using CSharp.GettingStarted;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -21,10 +22,13 @@ namespace CSharp
             // Aspose.PUB 
             // =====================================================
             // =====================================================
+            #region Getting Started
+            GetBuildVersionInfo.Run();
+            #endregion
 
-            // ConvertPUBFiles
-            // =====================================================            
+            #region ConvertPUBFiles
             ConvertPUBtoPDF.Run();
+            #endregion
 
             // Stop before exiting
             Console.WriteLine("\n\nProgram Finished. Press any key to exit....");

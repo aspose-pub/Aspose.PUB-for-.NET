@@ -21,7 +21,7 @@ namespace CSharp.ConvertPUBFiles
 
             var doc = parser.Parse();
 
-            PubFactory.CreatePdfConvertor().ConvertToPdf(doc, dataDir + "result_out.pdf");
+            Aspose.Pub.PubFactory.CreatePdfConverter().ConvertToPdf(doc, dataDir + "result_out.pdf");
             //ExEnd: ConvertPUBtoPDF
         }
     }
