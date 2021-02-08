@@ -1,3 +1,5 @@
+![Nuget](https://img.shields.io/nuget/v/Aspose.Pub) ![Nuget](https://img.shields.io/nuget/dt/Aspose.Pub) ![GitHub](https://img.shields.io/github/license/aspose-pub/Aspose.Pub-for-.NET)
+
 # Process Microsoft Publisher files via .NET
 
 [Aspose.PUB for .NET](https://products.aspose.com/pub/net) is a simple API that allows to read & convert Microsoft Publisher® (PUB) files to PDF format. It also provides easy to understand interfaces to edit metadata of PUB files.
