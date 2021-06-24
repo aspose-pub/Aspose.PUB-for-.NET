@@ -64,4 +64,4 @@ document.SummaryInfo.SetTitle("title");
 document.SummaryInfo.SetSubject("subject");
 ```
 
-[Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/pub/net) | [Docs](https://docs.aspose.com/pub/net/) | [API Reference](https://apireference.aspose.com/pub/net) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-.NET) | [Blog](https://blog.aspose.com/category/pub/) | [Free Support](https://forum.aspose.com/c/pub) |  [Temporary License](https://purchase.aspose.com/temporary-license)
+[Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/pub/net) | [Docs](https://docs.aspose.com/pub/net/) | [API Reference](https://apireference.aspose.com/pub/net) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-.NET) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) |  [Temporary License](https://purchase.aspose.com/temporary-license)
