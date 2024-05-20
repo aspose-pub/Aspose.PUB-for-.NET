@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConvertPUBFiles\ConvertPUBtoDifferentFormats.cs" />
     <Compile Include="ConvertPUBFiles\ConvertPUBtoPDF.cs" />
     <Compile Include="GettingStarted\GetBuildVersionInfo.cs" />
     <Compile Include="GettingStarted\LoadLicense.cs" />

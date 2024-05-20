@@ -28,6 +28,7 @@ namespace CSharp
 
             #region ConvertPUBFiles
             ConvertPUBtoPDF.Run();
+            ConvertPUBtoDifferentFormats.Run();
             #endregion
 
             // Stop before exiting
