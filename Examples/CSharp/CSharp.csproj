@@ -32,8 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Aspose.PUB, Version=20.2.0.0, Culture=neutral, PublicKeyToken=f0262d67fe233d63, processorArchitecture=MSIL">
-      <HintPath>..\packages\Aspose.PUB.20.2.0\lib\net4.5\Aspose.PUB.dll</HintPath>
+    <Reference Include="Aspose.PUB, Version=24.5.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aspose.PUB.24.5.0\lib\net4.0\Aspose.PUB.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConvertPUBFiles\ConvertPUBtoDifferentFormats.cs" />
     <Compile Include="ConvertPUBFiles\ConvertPUBtoPDF.cs" />
     <Compile Include="GettingStarted\GetBuildVersionInfo.cs" />
     <Compile Include="GettingStarted\LoadLicense.cs" />
