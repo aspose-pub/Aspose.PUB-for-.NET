@@ -22,10 +22,10 @@ namespace CSharp.ConvertPUBFiles
 
             var doc = parser.Parse();
 
-            //Convert to jpg and save result as file "halloween-flyer.jpg"
-            ConvertToFile(doc, PubExportFormats.Jpg, dataDir + "halloween-flyer.jpg");
-            //Convert to tiff using file stream and save resultant stream as "halloween-flyer.tiff"
-            using (FileStream st = File.OpenWrite(dataDir + "halloween-flyer.tiff"))
+            //Convert to jpg and save result as file "halloween-flyer_out.jpg"
+            ConvertToFile(doc, PubExportFormats.Jpg, dataDir + "halloween-flyer_out.jpg");
+            //Convert to tiff using file stream and save resultant stream as "halloween-flyer_out.tiff"
+            using (FileStream st = File.OpenWrite(dataDir + "halloween-flyer_out.tiff"))
             {
                 ConvertToStream(doc, PubExportFormats.Tiff, st);
             }
